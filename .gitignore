@@ -10,6 +10,4 @@ icons/apple*
 icons/windows*
 icons/favicon*
 views/partials/icons.twig
-main.css
-style.css
 editor-style.scss
